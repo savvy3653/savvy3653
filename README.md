@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on SheetOS
-- 🌱 I’m currently learning C++/Qt/osdev
+- 🔭 I’m currently modding Half Life
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: savvyanimatics@gmail.com
 - 😄 Pronouns: savvy
 - ⚡ Fun fact: im not joe.
