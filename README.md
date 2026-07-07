@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently modding Half Life
+- 🔭 I’m currently doing Networking
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: savvyanimatics@gmail.com
 - 😄 Pronouns: savvy
